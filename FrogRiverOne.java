@@ -1,5 +1,5 @@
 import java.util.Set;
-import java.util. HashSet;
+import java.util.HashSet;
 
 class Solution {
     public int solution(int X, int[] A) {

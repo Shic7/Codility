@@ -27,21 +27,16 @@ Lesson 4 - Counting Elements
 Lesson 5 - Prefix Sums
 
     PassingCars 
-    GenomicRangeQuery 
-    MinAvgTwoSlice 
     CountDiv 
 
 Lesson 6 - Sorting
 
     Distinct 
     MaxProductOfThree 
-    Triangle 
-    NumberOfDiscIntersections 
-
+    
 Lesson 7 - Stacks and Queues
 
-    Brackets 
-    Fish 
+    Brackets  
     Nesting
 
 Lesson 8 - Leader
@@ -52,12 +47,3 @@ Lesson 9 - Maximum slice problem
 
     MaxProfit 
     MaxSliceSum 
-
-Lesson 10 - Prime and composite numbers
-
-    MinPerimeterRectangle
-    Peaks 
-
-Lesson 12 - Euclidean algorithm
-
-    ChocolatesByNumbers 

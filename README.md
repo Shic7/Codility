@@ -26,13 +26,11 @@ Lesson 4 - Counting Elements
 
 Lesson 5 - Prefix Sums
 
-    PassingCars 
-    CountDiv 
+    PassingCars  
 
 Lesson 6 - Sorting
 
     Distinct 
-    MaxProductOfThree 
     
 Lesson 7 - Stacks and Queues
 
@@ -42,8 +40,3 @@ Lesson 7 - Stacks and Queues
 Lesson 8 - Leader
 
     Dominator 
-
-Lesson 9 - Maximum slice problem
-
-    MaxProfit 
-    MaxSliceSum 

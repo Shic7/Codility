@@ -14,6 +14,7 @@ Lesson 2 - Arrays
 Lesson 3 - Time Complexity
 
     FrogJmp 
+    PermMissingElem
     TapeEquilibrium 
 
 Lesson 4 - Counting Elements
